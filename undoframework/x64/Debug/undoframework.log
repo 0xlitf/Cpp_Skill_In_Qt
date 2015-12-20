@@ -1,0 +1,21 @@
+﻿生成启动时间为 15/7/14 上午10:14:03。
+     1>项目“C:\CPPProject\_C++inQt\undoframework\undoframework.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Uic'ing undoframework.ui...
+         '"D:\QtSDK\Desktop\Qt\4.8.1\msvc2010\bin\uic.exe"' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Moc'ing diagramscene.h...
+         '"D:\QtSDK\Desktop\Qt\4.8.1\msvc2010\bin\moc.exe"' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Moc'ing mainwindow.h...
+         '"D:\QtSDK\Desktop\Qt\4.8.1\msvc2010\bin\moc.exe"' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+         Rcc'ing undoframework.qrc...
+         '"D:\QtSDK\Desktop\Qt\4.8.1\msvc2010\bin\rcc.exe"' 不是内部或外部命令，也不是可运行的程序
+         或批处理文件。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: “cmd.exe”已退出，代码为 9009。
+     1>已完成生成项目“C:\CPPProject\_C++inQt\undoframework\undoframework.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.24

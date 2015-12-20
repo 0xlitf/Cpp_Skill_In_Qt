@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/7/8 12:29:40。
+     1>项目“C:\CPPProject\_C++inQt\english_pron\english_pron.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Qt\Qt5.4.1\5.4\msvc2013_64_opengl\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.4.1\5.4\msvc2013_64_opengl\include\QtCore /IC:\Qt\Qt5.4.1\5.4\msvc2013_64_opengl\include\QtTest /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_TESTLIB_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\CPPProject\_C++inQt\x64\Release\\english_pron.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.4.1\5.4\msvc2013_64_opengl\lib qtmain.lib Qt5Core.lib Qt5Test.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\CPPProject\_C++inQt\x64\Release\english_pron.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\CPPProject\_C++inQt\x64\Release\english_pron.lib" /MACHINE:X64 x64\Release\main.obj
+         english_pron.vcxproj -> C:\CPPProject\_C++inQt\x64\Release\english_pron.exe
+     1>已完成生成项目“C:\CPPProject\_C++inQt\english_pron\english_pron.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85
